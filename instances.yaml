@@ -158,16 +158,6 @@ instances:
       source:
       notes:
 
-    - url: https://invidious.moomoo.me
-      country: DE
-      status:
-      privacy_policy:
-      ddos_mitm_protection: Cloudflare
-      owner: https://github.com/moom0o
-      is_modified:
-      source:
-      notes:
-
     - url: https://ytb.trom.tf
       country: DE
       status:
@@ -205,6 +195,8 @@ instances:
     - url: https://invidious.s1gm4.eu
       country: FR
       status: 
+        url: https://status.s1gm4.eu/
+        text: Status Page
       privacy_policy:
       ddos_mitm_protection:
       owner: https://github.com/OrnithOrtion
@@ -218,6 +210,32 @@ instances:
       privacy_policy:
       ddos_mitm_protection: null
       owner: https://github.com/hys0star
+      is_modified:
+      source:
+      notes:
+
+    - url: https://invidious.noho.st
+      country: GB
+      status: 
+        url: https://img.shields.io/uptimerobot/status/m788769382-1b3bca2509f1d891c4620dbe
+        image: https://img.shields.io/uptimerobot/status/m788769382-1b3bca2509f1d891c4620dbe
+        text: Uptime Robot status
+      privacy_policy:
+      ddos_mitm_protection: null
+      owner: https://github.com/tomaytotomato
+      is_modified:
+      source:
+      notes:
+
+    - url: https://invidio.xamh.de
+      country: DE
+      status: 
+        url: https://img.shields.io/uptimerobot/status/m788804183-a33a0af7fb40e3bafa617cd8
+        image: https://img.shields.io/uptimerobot/status/m788804183-a33a0af7fb40e3bafa617cd8
+        text: Uptime Robot status
+      privacy_policy:
+      ddos_mitm_protection: null
+      owner: https://github.com/11Tuvork28
       is_modified:
       source:
       notes:
@@ -282,15 +300,6 @@ instances:
       source:
       notes:
 
-    - url: http://xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion
-      country: DE
-      associated_clearnet_instance: https://invidious.moomoo.me
-      privacy_policy:
-      owner: https://github.com/moom0o
-      is_modified:
-      source:
-      notes:
-
     - url: http://invidc4i7i5uci6cledxsao6w7ng5etpflagdzoxj3yhipztwzvqjryd.onion/
       country: DE
       associated_clearnet_instance: https://invidious.exonip.de
@@ -300,7 +309,7 @@ instances:
       source: https://github.com/exonip-de/invidious-source-modifications
       notes:
 
-    - url: http://vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion
+    - url: http://pwo2md4lgxs3hvroqi6wg33h6a3pv47euax6km3alke7letglieokyd.onion
       country: SG
       associated_clearnet_instance: https://invidious.hub.ne.kr
       privacy_policy:
